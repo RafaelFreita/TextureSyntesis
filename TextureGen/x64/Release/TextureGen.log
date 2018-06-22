@@ -1,0 +1,11 @@
+﻿  main.cpp
+d:\dev\projects\texturegen\texturegen\main.cpp(114): warning C4305: '=': truncamento de 'int' para 'float'
+d:\dev\projects\texturegen\texturegen\main.cpp(190): warning C4244: '=': conversão de 'int' para 'float', possível perda de dados
+d:\dev\projects\texturegen\texturegen\main.cpp(191): warning C4244: '=': conversão de 'int' para 'float', possível perda de dados
+d:\dev\projects\texturegen\texturegen\main.cpp(200): warning C4244: 'inicializando': conversão de 'float' para 'int', possível perda de dados
+  Gerando código
+  2 of 182 functions ( 1.1%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    3 functions had inline decision re-evaluated but remain unchanged
+  Finalizada a geração de código
+  TextureGen.vcxproj -> D:\Dev\Projects\TextureGen\x64\Release\TextureGen.exe
